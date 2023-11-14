@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="btn_width">200dp</dimen>
+    <dimen name="iv_width_large">200dp</dimen>
+    <dimen name="iv_height_large">350dp</dimen>
+    <dimen name="iv_margin_top">30dp</dimen>
+    <dimen name="iv_margin_end">5dp</dimen>
+    <dimen name="tv_width">200dp</dimen>
+    <dimen name="tv_margin">20dp</dimen>
+    <dimen name="iv_width_profile">174dp</dimen>
+    <dimen name="iv_height_profile">211dp</dimen>
+    <dimen name="iv_width_kyh">162dp</dimen>
+    <dimen name="iv_height_kyh">209dp</dimen>
+    <dimen name="adapter_width_and_height">120dp</dimen>
+    <dimen name="adapter_ts">12sp</dimen>
+    <dimen name="adapter_padding">20dp</dimen>
+    <dimen name="adapter_margin">10dp</dimen>
+</resources>

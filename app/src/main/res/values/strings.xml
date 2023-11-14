@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">PortfolioUppgift</string>
+    <string name="profil_name">Dennis Nilsson</string>
+    <string name="profil_age">Ålder: 26 år</string>
+    <string name="profil_living">Ort: Sundbyberg, Stockholm</string>
+    <string name="profil_occupation">Sysselsättning: Student, KYH</string>
+    <string name="profil_presentation">Tillämpad barnskötare med 5 års erfarenhet från förskola.
+    Sedan december 2021 har jag innehaft rollen som avdelningsansvarig. Jag älskar att anta nya
+    utmaningar och strävar alltid efter personlig och professionell utveckling. Jag är en
+    analytisk och lösningsorienterad person. Efter att ha arbetat i fem år med barn har jag
+    fått en bred erfarenhet inom mitt yrkesområde. Jag anser att mina styrkor inkluderar min
+    förmåga att interagera effektivt med olika individer och att skapa starka förtroendefulla
+    relationer. Jag har även en förmåga att bibehålla lugn i situationer som kan vara utmanande.
+    Under min tid som avdelningsansvarig har jag även samlat erfarenhet inom verksamhetsledning,
+    fördelning av arbetsuppgifter med effektivitet, och att samtidigt skapa en utvecklande miljö
+    för både barn och kollegor. Jag har även ansvarat för dokumentation och utvärderingar."
+    </string>
+    <string name="tv_title_main">Portfolio</string>
+    <string name="tv_description_bmi">En BMI kalkylator som räknar ut och skriver ut din BMI. Användaren får mata in sin vikt samt längd. Ett felmeddelande skrivs ut om användaren inte fyller i båda fält.</string>
+    <string name="tv_description_restaurangmeny">En simpel restaurang meny som kan visa de olika typer av rätter beroende på vilken knapp du trycker på.</string>
+    <string name="tv_description_gruppkalkylator">En kalkylator som gör olika beräkningar beroende på vilken knapp du klickar på. Finns simplare uträkningar men också mer avancerade uträkningar. Ett femeddelande skrivs ut på samma ställe som resultatet om användaren matar in felaktigt.</string>
+    <string name="tv_description_personallista">En app som består av två olika aktiviteter, den ena aktiviteten får användaren mata in 3 olika saker för att registrera en person. Nästa aktivitet är en lista på de personal som blivit inmatade av användaren. Ett felmeddelande dyker upp om användaren inte matar i alla fält.</string>
+    <string name="tv_description_notepad">En anteckningsapp med två activites. Man kan skapa anteckningar, ta bort de genom att hålla in på objektet i listan. Man kan också redigera anteckningen genom att klicka på objektet i listan. Anteckningarna sparas i internminnet genom SharedPreference</string>
+    <string name="btn_github">PROJEKTET PÅ GITHUB</string>
+    <string name="github_adress_bmi">https://github.com/zuttein/BMI_kalkylator</string>
+    <string name="github_adress_kalkylator">https://github.com/z0etz/GroupCalkylator</string>
+    <string name="linkedin_adress_profil">http://www.linkedin.com/in/dennis-nilsson-953045290/</string>
+    <string name="github_adress_notepad">https://github.com/zuttein/NotePadBasic</string>
+    <string name="github_adress_personallista">https://github.com/zuttein/PersonalLista</string>
+    <string name="github_adress_restaurangmeny">https://github.com/zuttein/RestaurangMeny</string>
+</resources>

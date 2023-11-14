@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#666666</color>
+    <color name="orange">#FF5722</color>
+    <color name="babyblå">#07edde</color>
+    <color name="osynligt">#00FFFFFF</color>
+    <color name="purpleish">#838dd2</color>
+    <color name="redish">#2b0303</color>
+    <color name="yellow">#c0f500</color>
+    <color name="gulbrun">#c6aa5c</color>
+    <color name="rosaish">#f24b80</color>
+    <color name="red">#ff0000</color>
+</resources>

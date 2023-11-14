@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:backgroundTint="@color/black"
+    android:padding="@dimen/adapter_padding"
+    android:layout_margin="@dimen/adapter_margin"
+    app:cardCornerRadius="13dp">
+
+    <TextView
+        android:id="@+id/tv_project"
+        android:layout_width="@dimen/adapter_width_and_height"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginStart="@dimen/adapter_margin"
+        android:padding="@dimen/adapter_padding"
+        android:textColor="@color/white"
+        android:textSize="@dimen/adapter_ts"
+        tools:text="Projekt"/>
+
+    <TextView
+        android:id="@+id/tv_content"
+        android:layout_width="@dimen/adapter_width_and_height"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_gravity="center"
+        android:padding="@dimen/adapter_padding"
+        android:textColor="@color/white"
+        android:textSize="@dimen/adapter_ts"
+        tools:text="Innehåll" />
+    <ImageView
+        android:id="@+id/iv_picture"
+        android:layout_width="@dimen/adapter_width_and_height"
+        android:layout_height="@dimen/adapter_width_and_height"
+        android:layout_marginEnd="@dimen/adapter_margin"
+        android:layout_gravity="end"
+        android:padding="@dimen/adapter_padding"
+        tools:src="@drawable/ic_launcher_background"/>
+
+
+</androidx.cardview.widget.CardView>
